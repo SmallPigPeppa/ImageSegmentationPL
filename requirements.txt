@@ -24,4 +24,3 @@ tensorboard-plugin-wit
 
 tensorflow-estimator
 tensorflow
-tensorflow-gpu-estimator
