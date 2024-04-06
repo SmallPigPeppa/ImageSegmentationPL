@@ -1,27 +1,27 @@
-albumentations==0.5.2
-dlib==19.21.1
-imutils==0.5.4
-matplotlib==3.3.4
-numpy==1.19.5
-opencv_python_headless==4.4.0.46
-Pillow==8.4.0
-pycocotools==2.0.0
+albumentations
+dlib
+imutils
+matplotlib
+numpy
+opencv_python_headless
+Pillow
+pycocotools
 
-PyYAML==6.0
-scipy==1.4.1
-tqdm==4.41.0
+PyYAML
+scipy
+tqdm
 
-torch==1.10.1
-torchinfo==0.0.8
-torchvision==0.9.1+cu102
-torchsummary==1.5.1 
-pytorch_lightning==1.2.6
-pytorch-lightning-bolts==0.3.0  
+torch=
+torchinfo
+torchvision
+torchsummary
+pytorch_lightning
+pytorch-lightning-bolts
 
-tensorboard==2.5.0                     
-tensorboard-data-server==0.6.0                     
-tensorboard-plugin-wit==1.8.0                     
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
 
-tensorflow-estimator==1.15.1                    
-tensorflow-gpu==2.2.0                     
-tensorflow-gpu-estimator==2.2.0 
+tensorflow-estimator
+tensorflow-gpu
+tensorflow-gpu-estimator
