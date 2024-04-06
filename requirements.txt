@@ -1,21 +1,24 @@
+
+
+
 albumentations
 dlib
 imutils
 matplotlib
-numpy
+numpy==1.24.2
 opencv_python_headless
-Pillow
+Pillow==10.0.1
 pycocotools
 
 PyYAML
 scipy
 tqdm
 
-torch=
+torch==1.13.1
 torchinfo
-torchvision
+torchvision==0.14.1
 torchsummary
-pytorch_lightning
+pytorch_lightning[extra]==1.9.3
 pytorch-lightning-bolts
 
 tensorboard
